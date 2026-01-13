@@ -1,31 +1,76 @@
 {
   "tasks": [
     {
-      "id": "99ef870f-65f8-49de-b3fa-c8bed82ed75f",
-      "title": "Edit resume",
+      "id": "34dd824c-07f2-4245-9ca9-e9d89dd572dc",
+      "title": "Work on final year project",
       "description": "",
       "priority": "HIGH",
-      "listId": "inbox",
+      "listId": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
       "completed": false,
-      "createdAt": "2026-01-13T12:54:13.6947207"
+      "createdAt": "2026-01-13T13:30:47.7624171"
     },
     {
-      "id": "0d2ceace-ec34-4e3d-a520-9c7e4725116f",
-      "title": "Practice DSA",
+      "id": "18743370-76d7-43b2-b62e-99da06029735",
+      "title": "Fix responsiveness issues in the chatbot application.",
       "description": "",
       "priority": "MEDIUM",
       "listId": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
       "completed": false,
-      "createdAt": "2026-01-13T12:54:41.6243192"
+      "createdAt": "2026-01-13T13:31:27.6541286"
     },
     {
-      "id": "21962490-b36a-43ac-95b8-1b555b26f936",
-      "title": "asdfsdfda",
-      "description": "asdfasdsd",
-      "priority": "HIGH",
+      "id": "48c12f2c-fe03-4e0f-99d3-38ea883550fe",
+      "title": "Start a new project.",
+      "description": "",
+      "priority": "LOW",
       "listId": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
       "completed": false,
-      "createdAt": "2026-01-13T12:55:55.6215298"
+      "createdAt": "2026-01-13T13:32:30.5062629"
+    },
+    {
+      "id": "68d13894-8504-4314-8e07-09ddf78482b9",
+      "title": "Finally finish trees.",
+      "description": "",
+      "priority": "MEDIUM",
+      "listId": "bb8a03ea-be89-4fde-a8cd-1380c48d698d",
+      "completed": false,
+      "createdAt": "2026-01-13T13:32:57.4578958"
+    },
+    {
+      "id": "03c3d89c-b70b-4c84-abc6-9545f0b1dc5b",
+      "title": "Revise DP.",
+      "description": "",
+      "priority": "HIGH",
+      "listId": "bb8a03ea-be89-4fde-a8cd-1380c48d698d",
+      "completed": false,
+      "createdAt": "2026-01-13T13:33:05.9886241"
+    },
+    {
+      "id": "29e6a37c-c88b-4ed7-87bf-7b4df6313388",
+      "title": "Revise Linked List questions.",
+      "description": "",
+      "priority": "LOW",
+      "listId": "bb8a03ea-be89-4fde-a8cd-1380c48d698d",
+      "completed": false,
+      "createdAt": "2026-01-13T13:33:20.5907202"
+    },
+    {
+      "id": "2517be3b-2f4a-4822-8463-cd7b29a2755a",
+      "title": "Edit review paper.",
+      "description": "",
+      "priority": "MEDIUM",
+      "listId": "inbox",
+      "completed": false,
+      "createdAt": "2026-01-13T13:33:39.9791768"
+    },
+    {
+      "id": "5a985462-08b6-4438-8380-965e1a7688fe",
+      "title": "Buy groceries.",
+      "description": "",
+      "priority": "MEDIUM",
+      "listId": "inbox",
+      "completed": false,
+      "createdAt": "2026-01-13T13:33:48.7716709"
     }
   ],
   "lists": [
@@ -36,7 +81,12 @@
     },
     {
       "id": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
-      "name": "Coding",
+      "name": "Development",
+      "isDefault": false
+    },
+    {
+      "id": "bb8a03ea-be89-4fde-a8cd-1380c48d698d",
+      "name": "DSA",
       "isDefault": false
     }
   ]
