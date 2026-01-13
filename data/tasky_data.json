@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "id": "99ef870f-65f8-49de-b3fa-c8bed82ed75f",
+      "title": "Edit resume",
+      "description": "",
+      "priority": "HIGH",
+      "listId": "inbox",
+      "completed": false,
+      "createdAt": "2026-01-13T12:54:13.6947207"
+    },
+    {
+      "id": "0d2ceace-ec34-4e3d-a520-9c7e4725116f",
+      "title": "Practice DSA",
+      "description": "",
+      "priority": "MEDIUM",
+      "listId": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
+      "completed": false,
+      "createdAt": "2026-01-13T12:54:41.6243192"
+    },
+    {
+      "id": "21962490-b36a-43ac-95b8-1b555b26f936",
+      "title": "asdfsdfda",
+      "description": "asdfasdsd",
+      "priority": "HIGH",
+      "listId": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
+      "completed": false,
+      "createdAt": "2026-01-13T12:55:55.6215298"
+    }
+  ],
+  "lists": [
+    {
+      "id": "inbox",
+      "name": "Inbox",
+      "isDefault": true
+    },
+    {
+      "id": "0f2059f0-f74d-4103-906a-a00cbb5c9bea",
+      "name": "Coding",
+      "isDefault": false
+    }
+  ]
+}
